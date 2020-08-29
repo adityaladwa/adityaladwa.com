@@ -2,14 +2,14 @@
 title: This is my personal site
 description: This is my personal site
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://adityaladwa.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://www.adityaladwa.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Aditya Ladwa
 user_description: Android Developer at Gojek
 user_title: Android Developer
 email: contactaditya@gmail.com
-twitter_username: adityaladwa
+twitter_username: aditya_ladwa
 github_username:  adityaladwa
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
